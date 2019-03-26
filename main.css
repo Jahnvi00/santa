@@ -1,0 +1,37 @@
+body{
+    background-color: background-image -webkit-gradient(linear, left top, left bottom, from(blue), to(white));
+    background-image: -webkit-linear-gradient(top, blue, white);
+    background-image: -moz-linear-gradient(top, blue, white);
+    background-image: linear-gradient(to bottom, blue, white);
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+
+#cover
+{
+    float:left;
+    height:70%;
+    width:40%;
+    margin-top:5%;
+}
+#description
+{
+    border: 1px solid black;
+    margin-left: 30%; 
+    padding-right: 6%;
+    padding-bottom: 1%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color:white;
+}
+.footer{
+    background-color: black;
+}
+
+.review{
+border: 1px solid black;
+margin-bottom: 1%;
+color:white;
+
+}
